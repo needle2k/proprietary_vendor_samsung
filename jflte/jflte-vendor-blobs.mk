@@ -180,7 +180,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/jflte/proprietary/lib/libsam.so:system/lib/libsam.so \
     vendor/samsung/jflte/proprietary/lib/hw/sensors.msm8960.so:system/lib/hw/sensors.msm8960.so \
     vendor/samsung/jflte/proprietary/lib/hw/sensorhubs.msm8960.so:system/lib/hw/sensorhubs.msm8960.so \
-    vendor/samsung/jflte/proprietary/bin/time_daemon:system/bin/time_daemon \
+    #vendor/samsung/jflte/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/samsung/jflte/proprietary/etc/wifi/bcmdhd_apsta.bin:system/etc/wifi/bcmdhd_apsta.bin \
     vendor/samsung/jflte/proprietary/etc/wifi/bcmdhd_ibss.bin:system/etc/wifi/bcmdhd_ibss.bin \
     vendor/samsung/jflte/proprietary/etc/wifi/bcmdhd_mfg.bin:system/etc/wifi/bcmdhd_mfg.bin \
